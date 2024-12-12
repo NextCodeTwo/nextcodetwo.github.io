@@ -6,9 +6,9 @@
 
 <div align="center">
 
-  [![Hackathon](https://img.shields.io/badge/NextCodeTwo-orange.svg)](http://hackathon.url.com) 
-  [![Status](https://img.shields.io/badge/status-inactive-red.svg)]() 
-  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
+[![Discord](https://img.shields.io/badge/discord-support%20server-5865F2.svg?logo=discord)](https://discord.liamsmets.be)
+[![Status](https://img.shields.io/badge/status-inactive-red.svg)]() 
+[![License](https://img.shields.io/badge/license-GPL%203.0-green.svg?)](LICENSE.md)
 
 </div>
 
