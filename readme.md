@@ -14,6 +14,9 @@
 
 ---
 
+> [!CAUTION]
+> This project isn't started yet :-1:
+
 <p align="center"> At NextCodeTwo, we are dedicated to empowering tomorrow's innovators by providing cutting-edge solutions today. Our mission is to drive innovation, foster collaboration, and build a community where developers can thrive. We believe in the power of open-source projects to transform the future, and we're committed to creating a space where creativity and technology converge. Join us in building the future, one line of code at a time.
     <br> 
 </p>
@@ -95,5 +98,3 @@ who participated in this project.
 - Inspiration
 - References
 
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
