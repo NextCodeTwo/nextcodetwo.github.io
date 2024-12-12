@@ -6,45 +6,28 @@
 
 <div align="center">
 
-  [![Hackathon](https://img.shields.io/badge/hackathon-name-orange.svg)](http://hackathon.url.com) 
-  [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
-  [![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
-  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
+  [![Hackathon](https://img.shields.io/badge/NextCodeTwo-orange.svg)](http://hackathon.url.com) 
+  [![Status](https://img.shields.io/badge/status-inactive-red.svg)]() 
   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
 
 </div>
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center"> At NextCodeTwo, we are dedicated to empowering tomorrow's innovators by providing cutting-edge solutions today. Our mission is to drive innovation, foster collaboration, and build a community where developers can thrive. We believe in the power of open-source projects to transform the future, and we're committed to creating a space where creativity and technology converge. Join us in building the future, one line of code at a time.
     <br> 
 </p>
 
-## 📝 Table of Contents
-- [Problem Statement](#problem_statement)
-- [Idea / Solution](#idea)
-- [Dependencies / Limitations](#limitations)
-- [Future Scope](#future_scope)
-- [Setting up a local environment](#getting_started)
-- [Usage](#usage)
-- [Technology Stack](#tech_stack)
-- [Contributing](../CONTRIBUTING.md)
-- [Authors](#authors)
-- [Acknowledgments](#acknowledgments)
+ ## 🧐 Looking for Developers
+We are actively seeking passionate and talented developers to join the NextCodeTwo team. If you love coding, enjoy tackling challenges, and thrive in a collaborative environment, we’d love to hear from you!
 
-## 🧐 Problem Statement <a name = "problem_statement"></a>
-It is useful to design and follow a specific format when writing a problem statement. While there are several options
-for doing this, the following is a simple and straightforward template often used in Business Analysis to maintain
-focus on defining the problem.
+> **How to Get Involved:**
+> 1. Check out our Projects: Explore the innovative work we’re doing.
+> 2. Join our Community: Connect with like-minded developers.
+> 3. Contribute: Fork the repository, make your changes, and submit a pull request.
 
-- IDEAL: This section is used to describe the desired or “to be” state of the process or product. At large, this section 
-should illustrate what the expected environment would look like once the solution is implemented.
-- REALITY: This section is used to describe the current or “as is” state of the process or product. 
-- CONSEQUENCES: This section is used to describe the impacts on the business if the problem is not fixed or improved upon.
-This includes costs associated with loss of money, time, productivity, competitive advantage, and so forth.
+Feel free to reach out to us at contact@liamsmets.be if you have any questions or need further information.
 
-Following this format will result in a workable document that can be used to understand the problem and elicit
-requirements that will lead to a winning solution. 
 
 ## 💡 Idea / Solution <a name = "idea"></a>
 This section is used to describe potential solutions. 
@@ -111,3 +94,6 @@ who participated in this project.
 - Hat tip to anyone whose code was used
 - Inspiration
 - References
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
