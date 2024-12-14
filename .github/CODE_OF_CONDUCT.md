@@ -18,7 +18,7 @@ Examples of unacceptable behavior include:
 Project maintainers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
 
 ## Enforcement
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at [contact@nextcodetwo.org](mailto:contact@nextcodetwo.org). All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at [contact@nextcodetwo.be](mailto:contact@nextcodetwo.be). All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances.
 
 ## Attribution
 This Code of Conduct is adapted from the Contributor Covenant, version 1.4, available at [https://www.contributor-covenant.org/version/1/4/code-of-conduct.html](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html)
@@ -27,5 +27,5 @@ This Code of Conduct is adapted from the Contributor Covenant, version 1.4, avai
 © NextCodeTwo\
 Website: https://www.nextcodetwo.be \
 Discord: https://discord.nextcodetwo.be \
-Email: support@nextcodetwo.be \ <br><br>
+Email: support@nextcodetwo.be <br><br>
 *Code Of Conduct - Last updated: 13/12/2024*
